@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1200</width>
-    <height>813</height>
+    <height>815</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <activeon>assets/Logo App.png</activeon>
+    <activeon>../assets/Logo App.png</activeon>
    </iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
@@ -197,7 +197,7 @@ Encuestas</string>
           <string>margin: 10px;</string>
          </property>
          <property name="pixmap">
-          <pixmap>assets/Logo Desarrollador.jpeg</pixmap>
+          <pixmap>../assets/Logo Desarrollador.jpeg</pixmap>
          </property>
          <property name="scaledContents">
           <bool>true</bool>
